@@ -6,4 +6,3 @@
 
 **Behavioral design patternler, bir nesnenin davranışını değiştirmeden sadece etkileşimini değiştirerek sistemi daha esnek ve yeniden kullanılabilir hale getirirler. Bu desenler, nesnelerin davranışlarının modüler olmasını sağlar ve kodun daha iyi bir şekilde organize edilmesini kolaylaştırır.**
 
-![](/images/16-Behavioral-Command.png)

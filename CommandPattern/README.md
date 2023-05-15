@@ -13,3 +13,5 @@
 - **Client: Command nesnelerini oluşturur ve Invoker nesnesine verir.**
 
 **Command design pattern, özellikle işlem geri alma/red etme, işlemleri sırayla işleme ve dinamik olarak komutları değiştirme gibi durumlarda kullanışlıdır. Örneğin, bir metin editöründe yaptığımız değişiklikleri geri almak veya yeniden uygulamak, bir müzik çalar uygulamasında müzikleri duraklatmak, oynatmak veya atlamak için kullanılabilir.**
+
+![](../images/16-Behavioral-Command.png)
