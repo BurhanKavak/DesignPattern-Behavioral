@@ -1,4 +1,4 @@
-## ## :diamond_shape_with_a_dot_inside: Observer Pattern
+## :diamond_shape_with_a_dot_inside: Observer Pattern
 **Observer, Behavioral (Davranışsal) tasarım desenlerinden biridir. Observer deseni, nesneler arasında bir bağımlılık ilişkisi kurarak, bir nesnenin durumu değiştiğinde otomatik olarak bağımlı nesnelere bildirim gönderilmesini sağlar.**
 
 **Observer deseni genellikle yayınlayıcı (publisher) ve abone (subscriber) yapıları arasında kullanılır. Yayınlayıcı, bir konuyu veya olayı temsil eden ve durumu değiştiren bir nesnedir. Aboneler ise bu konuyu veya olayı takip eden ve durum değişikliklerinden haberdar olmak isteyen nesnelerdir.**
